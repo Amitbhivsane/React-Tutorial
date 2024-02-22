@@ -1,0 +1,58 @@
+.expenseitem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 12px;
+  background-color: aqua;
+  border: 1px solid red;
+  padding: 1rem;
+  margin: 1rem;
+}
+.expenseitem h2 {
+  color: red;
+  font-size: 1.5rem;
+  align-items: center;
+  margin: 0 1rem;
+}
+.expenseitem-desc {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  font-size: 2rem;
+  align-items: center;
+  flex-flow: column-reverse;
+  justify-content: flex-start;
+  flex: 1;
+}
+.expenseitem-desc h2 {
+  color: red;
+  font-size: 1.5rem;
+  align-items: center;
+}
+
+.expenseite-price {
+  font-size: 6rem;
+  font-weight: bold;
+  color: red;
+
+  padding: 12px;
+}
+
+@media (min-width: 580px) {
+  .expenseitem-desc {
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    float: 1;
+    padding: 1rem;
+    margin: 1rem;
+  }
+
+  .expenseitem-desc h2 {
+    font-size: 1.25rem;
+  }
+  .expenseite-price {
+    font-size: 1.25rem;
+    padding: 0.55rem 1rem;
+  }
+}

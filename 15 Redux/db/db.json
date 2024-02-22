@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "id": 0,
+      "name": "samsung m40",
+      "color": "black",
+      "price": 152000,
+      "category": "mobile",
+      "photo": "https://images.unsplash.com/photo-1574169208507-84376144848b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1779&q=80"
+    },
+    {
+      "id": 1,
+      "name": "samsung s7",
+      "color": "yellow",
+      "price": 115000,
+      "category": "mobile",
+      "photo": "https://images.unsplash.com/photo-1574169208507-84376144848b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1779&q=80"
+    },
+    {
+      "id": 2,
+      "name": "samsung s14",
+      "color": "red",
+      "price": 25000,
+      "category": "mobile",
+      "photo": "https://images.unsplash.com/photo-1574169208507-84376144848b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1779&q=80"
+    },
+    {
+      "id": 3,
+      "name": "samsung",
+      "color": "pink",
+      "price": 505000,
+      "category": "mobile",
+      "photo": "https://images.unsplash.com/photo-1574169208507-84376144848b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1779&q=80"
+    },
+    {
+      "id": 4,
+      "name": "samsung 9l",
+      "color": "pink",
+      "price": 505000,
+      "category": "mobile",
+      "photo": "https://images.unsplash.com/photo-1574169208507-84376144848b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1779&q=80"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.navbar > li {
+  display: inline-block;
+  padding: 5px 5px;
+}
+.nav-link {
+  text-decoration: none;
+  color: green;
+}
+.nav-link:hover {
+  color: chocolate;
+}
+.navbar .active {
+  /* background-color: pink; */
+  color: pink;
+}
